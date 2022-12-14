@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T03:41:25.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P14463ix1L9CJGOZaPot" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T03:50:27.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bsxnRjXlE1NoZ0o0Yq5C" version="20.6.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="946" dy="-267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="2TVz8fjP1gfRnIbp-4KX-65" value="请求request" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="975" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2TVz8fjP1gfRnIbp-4KX-97" value="ApiGatewayFilter:&lt;br&gt;签名、能力校验&lt;br&gt;&lt;br&gt;ApiWhiteGatewayFilter：&lt;br&gt;白名单校验&lt;br&gt;&lt;br&gt;WebGatewayFilter:&lt;br&gt;站点校验" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=#FFFFFF;dashed=1;dashPattern=1 1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="2TVz8fjP1gfRnIbp-4KX-97" value="ApiGatewayFilter:&lt;br&gt;签名、能力校验&lt;br&gt;&lt;br&gt;ApiWhiteGatewayFilter：&lt;br&gt;白名单校验&lt;br&gt;&lt;br&gt;WebGatewayFilter:&lt;br&gt;站点校验&lt;br&gt;&lt;br&gt;RequestFilter:&lt;br&gt;站点、静态资源、token校验" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=#FFFFFF;dashed=1;dashPattern=1 1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="230" y="1040" width="160" height="250" as="geometry" />
         </mxCell>
       </root>
