@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T03:25:21.913Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tOk3bVJ2TpDbh-yfN7Bu" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T03:27:52.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bcLw3QYeHcpWIu8G1GnA" version="20.8.15" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="微信小程序登录" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=left;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="微信小程序登录" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="10" width="980" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="小程序" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
