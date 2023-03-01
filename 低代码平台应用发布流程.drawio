@@ -1,23 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T01:47:11.642Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Y3GBnK5Op1KIgSodgwqS" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T01:56:42.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ygtB0-v95qgu7MyK9pep" version="20.8.23" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="应用发布流程" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="210" y="40" width="750" height="750" as="geometry" />
+          <mxGeometry x="210" y="40" width="610" height="440" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="低代码平台（服务端）" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry y="20" width="180" height="730" as="geometry" />
+          <mxGeometry y="20" width="190" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="教育平台" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="180" y="20" width="180" height="730" as="geometry" />
+        <mxCell id="KdHOfSADMK7Gm172fw6m-12" value="应用搭建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-21" value="应用信息同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="教育号" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="360" y="20" width="190" height="730" as="geometry" />
+          <mxGeometry x="190" y="20" width="220" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="KdHOfSADMK7Gm172fw6m-13" target="KdHOfSADMK7Gm172fw6m-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-13" value="创建应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="50" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-14" value="应用上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-4" source="KdHOfSADMK7Gm172fw6m-18" target="KdHOfSADMK7Gm172fw6m-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-18" value="应用配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="50" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="KdHOfSADMK7Gm172fw6m-14" target="KdHOfSADMK7Gm172fw6m-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="机构、组织" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="550" y="20" width="200" height="730" as="geometry" />
+          <mxGeometry x="410" y="20" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-16" value="应用安装使用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="KdHOfSADMK7Gm172fw6m-18" target="KdHOfSADMK7Gm172fw6m-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-24" value="id、key" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KdHOfSADMK7Gm172fw6m-22">
+          <mxGeometry x="0.2267" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdHOfSADMK7Gm172fw6m-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="KdHOfSADMK7Gm172fw6m-12" target="KdHOfSADMK7Gm172fw6m-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
