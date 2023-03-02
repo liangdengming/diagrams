@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:57:31.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oeu_d9h-sRhZ9PeYqYw1" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T06:59:56.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d7rc3bax2VY8rdZosW8u" version="20.8.23" type="github">
   <diagram name="第 1 页" id="dUVvVyLjPzuyjLZR24LQ">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -171,9 +171,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pnnKYxnlThpWzgWn_VIT-50" value="登录完成，下发登录态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pnnKYxnlThpWzgWn_VIT-49">
+        <mxCell id="pnnKYxnlThpWzgWn_VIT-50" value="完成登录，返回jwt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pnnKYxnlThpWzgWn_VIT-49">
           <mxGeometry x="-0.3139" y="-1" relative="1" as="geometry">
-            <mxPoint x="-18" y="-9" as="offset" />
+            <mxPoint x="-22" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
