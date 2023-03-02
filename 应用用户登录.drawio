@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:54:05.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_vbvkobgEnC-dYSCXVC-" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T06:57:31.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oeu_d9h-sRhZ9PeYqYw1" version="20.8.23" type="github">
   <diagram name="第 1 页" id="dUVvVyLjPzuyjLZR24LQ">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="pnnKYxnlThpWzgWn_VIT-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;exitX=-0.216;exitY=0.743;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pnnKYxnlThpWzgWn_VIT-18" target="pnnKYxnlThpWzgWn_VIT-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pnnKYxnlThpWzgWn_VIT-33" value="登录成功，下发授权code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pnnKYxnlThpWzgWn_VIT-32">
+        <mxCell id="pnnKYxnlThpWzgWn_VIT-33" value="回调地址获取code、appid、state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pnnKYxnlThpWzgWn_VIT-32">
           <mxGeometry x="0.1533" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
