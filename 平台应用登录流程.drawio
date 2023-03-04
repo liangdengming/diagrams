@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T09:45:37.231Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kFwbWh9Qh05-tlWn7L-m" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T09:54:01.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PMTjzNqqOj67QmQnfYl7" version="21.0.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -93,11 +93,15 @@
             <mxPoint x="50" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-62" value="重定向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.1;entryY=0.326;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YV2BT5zyzoHaoUn2P1-p-18" source="YV2BT5zyzoHaoUn2P1-p-20" target="YV2BT5zyzoHaoUn2P1-p-20">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-62" value="重定向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YV2BT5zyzoHaoUn2P1-p-18" source="YV2BT5zyzoHaoUn2P1-p-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="126" />
-              <mxPoint x="80" y="145" />
+              <mxPoint x="55" y="130" />
+              <mxPoint x="90" y="130" />
+              <mxPoint x="90" y="155" />
+              <mxPoint x="56" y="155" />
+              <mxPoint x="56" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -129,7 +133,7 @@
             <mxPoint x="380" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-41" value="重定向url,token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-40">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-41" value="用户票据token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-40">
           <mxGeometry x="-0.1984" relative="1" as="geometry">
             <mxPoint x="-20" as="offset" />
           </mxGeometry>
@@ -147,7 +151,7 @@
             <mxPoint x="770" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=1.1;entryY=0.298;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YV2BT5zyzoHaoUn2P1-p-12">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="240" as="sourcePoint" />
             <mxPoint x="640" y="240" as="targetPoint" />
