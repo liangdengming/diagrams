@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T10:00:17.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IZ5YVy42sp-jm6x33D0h" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T10:00:27.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zXNpGG6tZeQdSpNJfZ4I" version="21.0.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
         </mxCell>
         <mxCell id="YV2BT5zyzoHaoUn2P1-p-77" value="code获取用户信息，重定向url、appid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-76">
           <mxGeometry x="0.194" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
