@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T10:03:34.519Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5zhlJRTs-iUWgxGtuort" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T10:08:53.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="c92rBYl9CY0e04C4g7Gv" version="21.0.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -88,6 +88,23 @@
         <mxCell id="YV2BT5zyzoHaoUn2P1-p-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="YV2BT5zyzoHaoUn2P1-p-18">
           <mxGeometry x="45" y="240" width="10" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YV2BT5zyzoHaoUn2P1-p-18" target="YV2BT5zyzoHaoUn2P1-p-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-62" value="重定向" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="YV2BT5zyzoHaoUn2P1-p-18" source="YV2BT5zyzoHaoUn2P1-p-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="130" />
+              <mxPoint x="90" y="130" />
+              <mxPoint x="90" y="155" />
+              <mxPoint x="56" y="155" />
+              <mxPoint x="56" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YV2BT5zyzoHaoUn2P1-p-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;dashed=1;exitX=0;exitY=0.931;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YV2BT5zyzoHaoUn2P1-p-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="466" y="552.5999999999999" as="sourcePoint" />
@@ -129,15 +146,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-57" value="用户登录（插件）" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YV2BT5zyzoHaoUn2P1-p-15" target="YV2BT5zyzoHaoUn2P1-p-20">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-57" value="用户登录,带重定向地址" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.131;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YV2BT5zyzoHaoUn2P1-p-15" target="YV2BT5zyzoHaoUn2P1-p-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=-0.4;exitY=0.427;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YV2BT5zyzoHaoUn2P1-p-20">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="240" as="sourcePoint" />
-            <mxPoint x="150" y="226" as="targetPoint" />
+            <mxPoint x="640" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YV2BT5zyzoHaoUn2P1-p-60" value="用户code" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-59">
@@ -145,9 +162,9 @@
             <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-63" value="code换取access_token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" target="YV2BT5zyzoHaoUn2P1-p-20">
+        <mxCell id="YV2BT5zyzoHaoUn2P1-p-63" value="code换取access_token" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;exitX=1;exitY=0.452;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YV2BT5zyzoHaoUn2P1-p-12" target="YV2BT5zyzoHaoUn2P1-p-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="280" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="sourcePoint" />
             <mxPoint x="770" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -192,16 +209,6 @@
         <mxCell id="YV2BT5zyzoHaoUn2P1-p-73" value="获取用户信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-72">
           <mxGeometry x="-0.1815" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YV2BT5zyzoHaoUn2P1-p-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="254" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YV2BT5zyzoHaoUn2P1-p-77" value="code获取用户信息，重定向url、appid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YV2BT5zyzoHaoUn2P1-p-76">
-          <mxGeometry x="0.194" y="-4" relative="1" as="geometry">
-            <mxPoint x="-13" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
