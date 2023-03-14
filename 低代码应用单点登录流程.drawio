@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T03:28:52.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ipvoCfYGbXRO8GEhNWmZ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T03:29:41.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TceIP4t8ElkyOZYDY0lK" version="21.0.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="954" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -268,7 +268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sSaj4DuhooqCmXlItYO7-195" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="197" y="1761" width="434" height="552" as="geometry" />
+          <mxGeometry x="213" y="1764" width="406" height="510" as="geometry" />
         </mxCell>
         <mxCell id="sSaj4DuhooqCmXlItYO7-190" value="rocketmq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="sSaj4DuhooqCmXlItYO7-195">
           <mxGeometry x="152" y="160" width="81" height="39" as="geometry" />
@@ -312,7 +312,7 @@
           <mxGeometry x="260" y="369" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="sSaj4DuhooqCmXlItYO7-216" value="失败记录通过人工核查，判断是否需要同步，以及手动进行同步处理。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="sSaj4DuhooqCmXlItYO7-195">
-          <mxGeometry x="16" y="411" width="134" height="102" as="geometry" />
+          <mxGeometry x="100" y="427" width="253" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
