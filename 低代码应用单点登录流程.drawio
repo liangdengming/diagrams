@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T03:22:28.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1zQbL7rWaAFxst52x5Nc" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T03:23:55.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4NlTAgnqlok22w2SmVPm" version="21.0.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="954" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -327,8 +327,8 @@
         <mxCell id="sSaj4DuhooqCmXlItYO7-215" value="成功记录" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="sSaj4DuhooqCmXlItYO7-195">
           <mxGeometry x="274" y="463" width="50" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="sSaj4DuhooqCmXlItYO7-216" value="失败记录通过人工核查，判断是否需要同步" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="sSaj4DuhooqCmXlItYO7-195">
-          <mxGeometry x="9" y="411" width="134" height="102" as="geometry" />
+        <mxCell id="sSaj4DuhooqCmXlItYO7-216" value="失败记录通过人工核查，判断是否需要同步，以及手动进行同步处理。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="sSaj4DuhooqCmXlItYO7-195">
+          <mxGeometry x="16" y="411" width="134" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
