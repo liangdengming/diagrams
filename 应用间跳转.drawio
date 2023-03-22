@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T04:49:07.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pFg_akQCD9icRWMfkmKD" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T04:50:34.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2BOgx_uml0lU2Nd2LlYz" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,9 +30,9 @@
             <mxGeometry x="250" y="30" width="540" height="125" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;在平台应用表t_gwa_application，录入应用APPID、APPKEY、APP_SECRET、TOKEN、AES_KEY、LOGIN_CALL_BACK_URL、INDEX&lt;br&gt;1、APPID、APPKEY、APP_SECRET、TOKEN、AES_KEY由教育号生成&lt;br&gt;2、LOGIN_CALL_BACK_URL 对应应用真实访问地址，租户信息使用占位符{tenant}代替&lt;/font&gt;" treeRoot="1" id="xr-hMLC1pA_ehJgamefP-28">
+        <UserObject label="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;前置条件：&lt;br&gt;1.需要先在教育市场添加应用&lt;br&gt;说明：&lt;br&gt;1、在平台应用表t_gwa_application，录入应用APPID、APPKEY、APP_SECRET、TOKEN、AES_KEY、LOGIN_CALL_BACK_URL、INDEX&lt;br&gt;2、APPID、APPKEY、APP_SECRET、TOKEN、AES_KEY由教育号生成&lt;br&gt;3、LOGIN_CALL_BACK_URL 对应应用真实访问地址，租户信息使用占位符{tenant}代替&lt;/font&gt;" treeRoot="1" id="xr-hMLC1pA_ehJgamefP-28">
           <mxCell style="whiteSpace=wrap;html=1;align=left;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="250" y="200" width="540" height="80" as="geometry" />
+            <mxGeometry x="250" y="180" width="540" height="120" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="前置条件：完成步骤2操作，并且能拿到应用授权票据（每10分钟通过回调地址发送）&lt;br&gt;说明：&lt;br&gt;1、同意授权，会在机构永久授权表中“t_sys_pass_permanent_code”生成一条机构应用授权码记录，&lt;br&gt;如果没有授权记录，需要机构卸载重新安装。" treeRoot="1" id="xr-hMLC1pA_ehJgamefP-29">
