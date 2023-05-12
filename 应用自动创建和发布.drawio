@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T03:05:54.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="aAzY8CqZwsE3sjeaC8LL" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T03:15:03.260Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wB1R3HFypNQ2bab3UACI" version="21.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="教育号上架应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="95" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="95" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-0" value="学校机构安装应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="670" width="120" height="40" as="geometry" />
@@ -23,16 +23,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-2" value="低代码平台应用搭建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="95" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-3" value="&lt;h1 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;前提条件：&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;1、低代码平台与教育平台完成单点登录&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;2、&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="20" width="750" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-4" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在教育号录入机构或者学校&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、在低代码平台开通租户&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3、在教育平台配置机构和租户映射关系&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="231" y="120" width="530" height="70" as="geometry" />
+          <mxGeometry x="241" y="120" width="530" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="R81JF_smsubKMHbJwb_p-5" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在低代码创建应用。（需要控制创建应用数量）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、在低代码平台开通租户&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3、在教育平台配置机构和租户映射关系&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="231" y="290" width="530" height="70" as="geometry" />
+        <mxCell id="R81JF_smsubKMHbJwb_p-5" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在低代码创建应用。（需要控制创建应用数量）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、低代码平台租户安装应用。（通过低代码api接口进行安装）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241" y="280" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R81JF_smsubKMHbJwb_p-9" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在低代码创建应用。（需要控制创建应用数量）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、低代码平台租户安装应用。（通过低代码api接口进行安装）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241" y="440" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
