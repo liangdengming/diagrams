@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T03:19:46.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xCgEWvnozWyko8rSZxt1" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T03:20:19.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="9RBtbPP_C8p76i9HZRAd" version="21.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="95" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-0" value="学校机构安装应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="670" width="120" height="40" as="geometry" />
+          <mxGeometry x="95" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R81JF_smsubKMHbJwb_p-2" target="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,10 @@
           <mxGeometry x="241" y="280" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R81JF_smsubKMHbJwb_p-9" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在教育号配置应用信息，包括应用名称、访问地址，消息回调地址。（暂无相关问题）&lt;br&gt;&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、在教育号应用市场上架应用，需控制应用市场范围。&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3、在教育平台录入应用信息，包括应用访问地址、appKey、秘钥等信息。（功能未开发）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;4、登录低代码平台后台系统，在【教育平台配置】应用录入appKey和秘钥信息。&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="440" width="539" height="110" as="geometry" />
+          <mxGeometry x="241" y="440" width="539" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="R81JF_smsubKMHbJwb_p-10" value="&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;1、在教育号配置应用信息，包括应用名称、访问地址，消息回调地址。（暂无相关问题）&lt;br&gt;&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;2、在教育号应用市场上架应用，需控制应用市场范围。&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;3、在教育平台录入应用信息，包括应用访问地址、appKey、秘钥等信息。（功能未开发）&lt;/span&gt;&lt;/h6&gt;&lt;h6 style=&quot;line-height: 0%;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;4、登录低代码平台后台系统，在【教育平台配置】应用录入appKey和秘钥信息。&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Georgia;verticalAlign=top;strokeColor=default;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="241" y="640" width="539" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
