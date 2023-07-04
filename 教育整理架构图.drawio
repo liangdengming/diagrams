@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T03:40:16.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="v8Sf9jJ036EyDULf4lxx" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T03:47:06.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Sz9CxEADcRtKczruJ-h9" version="21.5.2" type="github">
   <diagram name="第 1 页" id="Y6c7LogfhmJSzpeoHGJV">
     <mxGraphModel dx="795" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-32" value="待办、服务对接" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="480" height="330" as="geometry" />
+          <mxGeometry x="170" y="530" width="495" height="330" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-33" value="云羲搭" style="swimlane;startSize=20;html=1;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-32">
           <mxGeometry y="20" width="120" height="310" as="geometry" />
@@ -82,16 +82,19 @@
           <mxGeometry x="35" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-61" value="1.待办会在统一租户配置管理，需要发送待办的应用，需提前配置待办信息&lt;br&gt;2.服务接口需要授权APPID和秘钥" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-35">
-          <mxGeometry x="5" y="115" width="125" height="145" as="geometry" />
+          <mxGeometry x="2.5" y="115" width="117.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-38" value="教育平台" style="swimlane;startSize=20;html=1;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-32">
-          <mxGeometry x="250" y="20" width="110" height="310" as="geometry" />
+          <mxGeometry x="250" y="20" width="125" height="310" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-55" value="开放接口" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-38">
           <mxGeometry x="25" y="60" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2pj6zwEHegQCQvlmWKqd-62" value="开放接口地址：https://docs.qq.com/doc/DZG5DT2tNdVZGWXlO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-38">
+          <mxGeometry x="7.5" y="115" width="110" height="135" as="geometry" />
+        </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-45" value="教育号" style="swimlane;startSize=20;html=1;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-32">
-          <mxGeometry x="360" y="20" width="120" height="310" as="geometry" />
+          <mxGeometry x="375" y="20" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="2pj6zwEHegQCQvlmWKqd-56" value="服务接口" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="2pj6zwEHegQCQvlmWKqd-45">
           <mxGeometry x="30" y="60" width="60" height="30" as="geometry" />
